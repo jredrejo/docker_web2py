@@ -15,3 +15,4 @@ It's recommended to mount a Docker volume over
 so the code can be edited easily.
 
 
+[![](https://images.microbadger.com/badges/image/jredrejo/web2py.svg)](https://microbadger.com/images/jredrejo/web2py "Get your own image badge on microbadger.com")
